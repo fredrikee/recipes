@@ -6,3 +6,6 @@
 * salt
 * pepper
 * habanero
+* itlog
+* baboy
+
